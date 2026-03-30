@@ -1,32 +1,12 @@
 {
-  "latest_date": "2026-03-30",
+  "latest_date": "2026-03-31",
   "languages": [
     "en",
     "fi",
     "es",
     "fr",
-    "de",
-    "pt",
-    "it",
-    "nl",
-    "sv",
-    "da",
-    "no",
-    "pl",
-    "cs",
-    "ro",
-    "hu",
-    "tr",
-    "ru",
-    "uk",
-    "ja",
-    "ko",
-    "id",
-    "th",
-    "vi",
-    "hi",
-    "ar"
+    "de"
   ],
-  "total_puzzles": 8,
-  "generated_at": "2026-03-30T00:00:00"
+  "total_puzzles": 15,
+  "generated_at": "2026-03-30T03:15:36.355070"
 }
