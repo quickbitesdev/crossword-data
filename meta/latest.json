@@ -1,10 +1,12 @@
 {
-  "latest_date": "2026-03-30",
+  "latest_date": "2026-04-02",
   "languages": [
+    "en",
+    "fi",
     "es",
-    "de",
-    "fr"
+    "fr",
+    "de"
   ],
-  "total_puzzles": 9,
-  "generated_at": "2026-03-30T12:16:16.599927"
+  "total_puzzles": 15,
+  "generated_at": "2026-04-02T22:09:10.011309"
 }
